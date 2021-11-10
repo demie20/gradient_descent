@@ -1,4 +1,4 @@
-Here I've tried to implement an optimization algorithm, gradient descent, using numpy.
+Implementation of an optimization algorithm named gradient descent.
 
 # Gradient Descent
 Gradient descent is an optimization algorithm that's used when training a machine learning model. It's based on a convex function and tweaks its parameters iteratively to minimize a given function to its local minimum.
