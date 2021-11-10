@@ -1,4 +1,4 @@
-Implementation of an optimization algorithm named gradient descent.
+Implementation of gradient descent algorithm for minimizing cost of a linear hypothesis function.
 
 # Gradient Descent
 Gradient descent is an optimization algorithm that's used when training a machine learning model. It's based on a convex function and tweaks its parameters iteratively to minimize a given function to its local minimum.
