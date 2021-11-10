@@ -11,4 +11,4 @@ Gradient descent was originally proposed by CAUCHY in 1847. It is also known as 
 I used the following resources to implement and learn the same: 
 https://github.com/TheAlgorithms/Python
 Coursera ML course
-https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
+
