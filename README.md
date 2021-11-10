@@ -7,3 +7,6 @@ Gradient descent is an iterative optimization algorithm for finding the local mi
 To find the local minimum of a function using gradient descent, we must take steps proportional to the negative of the gradient (move away from the gradient) of the function at the current point. If we take steps proportional to the positive of the gradient (moving towards the gradient), we will approach a local maximum of the function, and the procedure is called Gradient Ascent.
 
 Gradient descent was originally proposed by CAUCHY in 1847. It is also known as steepest descent.
+
+I used the following as a resource to implement and learn the same: 
+https://github.com/TheAlgorithms/Python
