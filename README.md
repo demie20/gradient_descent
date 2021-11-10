@@ -8,5 +8,7 @@ To find the local minimum of a function using gradient descent, we must take ste
 
 Gradient descent was originally proposed by CAUCHY in 1847. It is also known as steepest descent.
 
-I used the following as a resource to implement and learn the same: 
+I used the following resources to implement and learn the same: 
 https://github.com/TheAlgorithms/Python
+Coursera ML course
+https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
